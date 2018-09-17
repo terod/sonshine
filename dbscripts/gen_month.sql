@@ -1,0 +1,12 @@
+INSERT INTO `gen_month` VALUES (1, 'Jan', 'January');
+INSERT INTO `gen_month` VALUES (2, 'Feb', 'February');
+INSERT INTO `gen_month` VALUES (3, 'Mar', 'March');
+INSERT INTO `gen_month` VALUES (4, 'Apr', 'April');
+INSERT INTO `gen_month` VALUES (5, 'May', 'May');
+INSERT INTO `gen_month` VALUES (6, 'Jun', 'June');
+INSERT INTO `gen_month` VALUES (7, 'Jul', 'July');
+INSERT INTO `gen_month` VALUES (8, 'Aug', 'August');
+INSERT INTO `gen_month` VALUES (9, 'Sep', 'September');
+INSERT INTO `gen_month` VALUES (10, 'Oct', 'October');
+INSERT INTO `gen_month` VALUES (11, 'Nov', 'November');
+INSERT INTO `gen_month` VALUES (12, 'Dec', 'December');
