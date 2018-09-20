@@ -9,6 +9,11 @@ import java.util.Locale;
 
 import org.apache.log4j.Logger;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class DateUtility {
 	final static Logger LOGGER = Logger.getLogger(DateUtility.class);
 
