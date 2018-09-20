@@ -8,6 +8,11 @@ import java.text.SimpleDateFormat;
 import sonshine.beans.ChildDocuments;
 import sonshine.beans.ChildPhotos;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class FilesPeer {
 
 	public static void insertPhoto(Statement stmt, ChildPhotos childPhoto)
