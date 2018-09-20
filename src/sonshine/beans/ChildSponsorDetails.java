@@ -1,5 +1,10 @@
 package sonshine.beans;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class ChildSponsorDetails {
 	private int sponsor_details_pk;
 	private int active_fk;
