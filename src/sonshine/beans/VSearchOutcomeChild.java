@@ -2,6 +2,11 @@ package sonshine.beans;
 
 import java.util.HashMap;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class VSearchOutcomeChild {
 	private int child_key;
 	private String child_id;
