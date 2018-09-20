@@ -9,7 +9,11 @@ import java.util.HashMap;
 import java.util.Hashtable;
 
 import sonshine.beans.ChildProgram;
-
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class PopulatorPeer {
 
 	public static HashMap<Integer, String> getPrograms(DataManager dataManager) {
