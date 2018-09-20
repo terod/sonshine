@@ -12,6 +12,11 @@ import java.sql.Statement;
 import sonshine.beans.Child;
 import sonshine.beans.VSearchOutcomeChild;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class ChildPeer {
 	public static ArrayList<VSearchOutcomeChild> searchChildren(
 			DataManager dataManager, String keyword) {
