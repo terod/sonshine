@@ -10,6 +10,11 @@ import sonshine.beans.ChildParents;
 import sonshine.beans.ChildProgram;
 import sonshine.beans.VChildProgram;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class ChildUpdatePeer {
 
 	public static int[] findActiveChildProgramAndMakeInactive(
