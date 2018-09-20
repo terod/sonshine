@@ -22,6 +22,11 @@ import sonshine.beans.ChildSponsorDetails;
 import sonshine.beans.FinanceExpenseAmount;
 import sonshine.beans.FinanceSponsorAmount;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class ChildFinancePeer {
 	public static boolean insertChildSponsorDetails(Connection conn,
 			ChildSponsorDetails childSponsorDetails) throws SQLException {
