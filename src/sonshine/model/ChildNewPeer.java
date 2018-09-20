@@ -22,6 +22,11 @@ import sonshine.beans.ChildProgram;
 import sonshine.beans.ChildSiblings;
 import sonshine.utils.DateUtility;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class ChildNewPeer {
 
 	static final Logger LOGGER = Logger.getLogger(ChildNewPeer.class);
