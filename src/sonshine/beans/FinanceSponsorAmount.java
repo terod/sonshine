@@ -1,5 +1,10 @@
 package sonshine.beans;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class FinanceSponsorAmount {
 	private int sponsor_amount_pk;
 	private int sponsor_person_fk;
