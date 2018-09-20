@@ -22,6 +22,8 @@ import sonshine.model.DataManager;
 
 /**
  * Servlet implementation class UploadServlet
+ * @author George Ebbinason
+ * @version v1
  */
 public class UploadServlet extends HttpServlet {
 	/**
