@@ -1,5 +1,10 @@
 package sonshine.beans;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class VFinanceExpenseAmount {
 	private int expense_amount_pk;
 	private String expense_type;
