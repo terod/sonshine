@@ -1,5 +1,10 @@
 package sonshine.beans;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class ChildIdentifyMarks {
 	private int identify_marks_pk; 
 	private int child_fk;
