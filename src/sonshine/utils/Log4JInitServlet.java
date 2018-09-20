@@ -10,6 +10,11 @@ import javax.servlet.http.HttpServlet;
 import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.PropertyConfigurator;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class Log4JInitServlet extends HttpServlet {
 
 	private static final long serialVersionUID = 1L;
