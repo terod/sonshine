@@ -1,5 +1,10 @@
 package sonshine.beans;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class VNlchStaffDetails {
 	private int staff_pk;
 	private String name;
