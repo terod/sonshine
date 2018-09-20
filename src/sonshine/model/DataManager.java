@@ -41,6 +41,11 @@ import org.apache.log4j.Logger;
 
 import com.mysql.fabric.xmlrpc.base.Value;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class DataManager {
 	private String dbURL = "";
 	private String dbUserName = "";
