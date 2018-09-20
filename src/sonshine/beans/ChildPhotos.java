@@ -1,5 +1,10 @@
 package sonshine.beans;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class ChildPhotos {
 	private int photos_pk;
 	private int child_fk;
