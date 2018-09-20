@@ -1,5 +1,10 @@
 package sonshine.beans;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class ChildView {
 	private int child_key;
 	private String child_id;
