@@ -1,5 +1,10 @@
 package sonshine.beans;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class VChildAcademics {
 	private int academic_pk;
 	private int child_fk;
