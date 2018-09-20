@@ -8,6 +8,11 @@ import javax.servlet.ServletContextListener;
 
 import org.apache.log4j.PropertyConfigurator;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class ContextListener implements ServletContextListener {
 	 
     /**
