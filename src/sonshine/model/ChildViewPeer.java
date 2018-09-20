@@ -29,6 +29,11 @@ import sonshine.beans.VFinanceExpenseAmount;
 import sonshine.beans.VFinanceSponsorAmount;
 import sonshine.beans.VNlchStaffDetails;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class ChildViewPeer {
 
 	static final Logger LOGGER = Logger.getLogger(ChildViewPeer.class);
